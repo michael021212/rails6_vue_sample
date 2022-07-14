@@ -27,3 +27,9 @@ bundle install
 yarn install
 rails db:migrate
 ```
+
+Usage
+```
+Get '/admin'
+Create users
+```
