@@ -1,24 +1,21 @@
-# README
+```
+Ruby 2.7.4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 6.1.6.1
 
-Things you may want to cover:
+Bundler version 2.1.4
 
-* Ruby version
+npm vue -v
+=> 6.14.13
 
-* System dependencies
+vue --version
+=> @vue/cli 5.0.4
 
-* Configuration
+npm list vue
+=> rails6-vue-sample@0.1.0 /Users/******/Desktop/study/rails6_vue_sample
+   └── vue@2.7.5
 
-* Database creation
+yarn -v
+=> 1.22.18
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
