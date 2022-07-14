@@ -1,3 +1,6 @@
+### SPA CRUD App
+Rails6 + Vue.js + Vuetify + VueRouter
+
 ```
 Ruby 2.7.4
 
