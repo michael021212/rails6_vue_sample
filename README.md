@@ -19,3 +19,11 @@ yarn -v
 => 1.22.18
 
 ```
+
+Install
+```
+git clone ~
+bundle install
+yarn install
+rails db:migrate
+```
